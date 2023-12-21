@@ -2,7 +2,7 @@
 
 ## The project is a fork from Rafael Padilla et al. The original project can be found [here](https://github.com/rafaelpadilla/review_object_detection_metrics)
 
-<img src="data/images/RotatedIOu.png">
+<img src="data/images/RotatedIOU.png">
 ### Functionality
 
 This repo extends the original repo introducing rotated Bounding Boxes. The repo was created in the context of self-driving cars especially the birds-eye-view (bev) object detection evaluation. This allows to calculate:
