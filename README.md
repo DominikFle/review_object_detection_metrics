@@ -1,6 +1,6 @@
 # Object-Detection Metrics with rotated Bounding Boxes
 
-#### The project is a fork from Rafael Padilla et al. The original project can be found [here](https://github.com/rafaelpadilla/review_object_detection_metrics)
+#### The project is a fork from Rafael Padilla et al. The original project can be found [here](https://github.com/rafaelpadilla/review_object_detection_metrics).
 
 <img src="data/images/RotatedIOU.png">
 
